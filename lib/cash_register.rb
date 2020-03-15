@@ -20,6 +20,7 @@ class CashRegister
     if discount != 0
       self.total = (total * ((100.0 - discount.to_f)/100)).to_i
       
+      
   
     
  
